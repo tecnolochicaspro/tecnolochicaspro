@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💬 Ask me about
+- Backend web development (Python, TypeScript, PHP)
+- Frontend web development (Vue.js, React.js)
+- Docker
+- Deep Learning and Machine Learning
+- Cloud Architecture
+- Design Patterns
+- Gardening (Bonsai enthusiast :evergreen_tree:)
+- Side projects (Lazy Link ft. @dmfigueroa)
+  
+## 📚 Learning
+- React.js with my wife 👩‍❤️‍👨
+- Hono.js with RPC
+- Remix
+- TypeScript
+- Cloudflare workers
