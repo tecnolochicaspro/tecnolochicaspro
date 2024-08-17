@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-tecnolochicas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tecnolochicas/)](https://www.linkedin.com/company/tecnolochicas/)
+
+[![Instagram Badge](https://img.shields.io/badge/-tecnolichicasmx-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tecnolochicasmx/)](https://www.instagram.com/tecnolochicasmx/)
+
+
+
 ## 💬 Ask me about
 - Backend web development (Python, TypeScript, PHP)
 - Frontend web development (Vue.js, React.js)
